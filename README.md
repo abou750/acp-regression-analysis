@@ -2,59 +2,62 @@
 
 ## Overview
 
-Academic project completed as part of the Bachelor in Data Science (BUT Science des Données).
+Academic project completed as part of the Bachelor's Degree in Data Science (BUT Science des Données).
 
-The objective was to explore relationships between quantitative variables, reduce dimensionality, and build predictive models using statistical methods.
+The objective of this project was to explore relationships between quantitative variables, identify correlation structures, and perform dimensionality reduction using Principal Component Analysis (PCA).
 
 ## Objectives
 
-- Study variability between individuals
-- Identify correlations between variables
-- Reduce dimensionality using Principal Component Analysis (PCA)
-- Build predictive models using Multiple Linear Regression
-- Evaluate model performance and interpret results
+* Explore and clean the dataset
+* Analyze relationships between variables
+* Identify highly correlated variables
+* Reduce dimensionality using PCA
+* Interpret principal components and factor maps
+* Visualize statistical relationships
 
 ## Methodology
 
-1. Data exploration and cleaning
-2. Correlation analysis
-3. Principal Component Analysis (PCA)
-4. Construction of correlation circles and factorial planes
-5. Multiple linear regression
-6. Model evaluation and interpretation
+* Data preprocessing and standardization
+* Correlation matrix analysis
+* Principal Component Analysis (PCA)
+* Correlation circle visualization
+* Individual factor map analysis
+* Interpretation of statistical results
 
 ## Technologies
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Jupyter Notebook
 
 ## Skills Developed
 
-- Data Analysis
-- Statistical Modeling
-- Principal Component Analysis (PCA)
-- Multiple Linear Regression
-- Feature Reduction
-- Data Visualization
+* Data Analysis
+* Exploratory Data Analysis (EDA)
+* Principal Component Analysis (PCA)
+* Statistical Modeling
+* Data Visualization
+* Feature Reduction
 
-## Repository Structure
+## Visualizations
 
-```text
-data/
-└── data.csv
+### Correlation Matrix
 
-Diop_Abou.ipynb
-README.md
-```
+![Correlation Matrix](images/correlation_matrix.png)
+
+### Correlation Circle
+
+![Correlation Circle](images/correlation_circle.png)
+
+### Individual Factor Map
+
+![Individual Factor Map](images/individual_factor_map.png)
 
 ## Author
 
 Abou Diop
 
-Bachelor in Data Science (BUT Science des Données)
-Université Sorbonne Paris Nord
+BUT Science des Données – Université Sorbonne Paris Nord
